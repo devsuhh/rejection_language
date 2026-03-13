@@ -19,4 +19,5 @@
 "we won't be proceeding"
 "we won't be progressing with your application"
 "we've decided not to move forward"
+"we've decided not to proceed with your candidacy"
 "we've made the decision to not move forward at this time."
