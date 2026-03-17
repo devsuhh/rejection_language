@@ -8,6 +8,7 @@
 "we are not in the position to move forward with your application"
 "we couldn't find an immediate match across our network"
 "we decided to move forward with other candidates"
+"we’ve decided not to move you ahead for this position "
 "we have chosen to move forward with other candidates"
 "we have decided not to move forward"
 "we have decided to move forward with other candidates"
