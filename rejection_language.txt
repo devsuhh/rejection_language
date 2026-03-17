@@ -5,6 +5,7 @@
 "move forward with other candidates"
 "not quite the right match"
 "the client has decided to move forward with another candidate"
+"we are not in the position to move forward with your application"
 "we couldn't find an immediate match across our network"
 "we decided to move forward with other candidates"
 "we have chosen to move forward with other candidates"
