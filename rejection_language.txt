@@ -1,6 +1,7 @@
 "but unfortunately there are other folks"
 "decided not to move forward"
 "filled this position"
+"moved in another direction"
 "not quite the right match"
 "the client has decided to move forward with another candidate"
 "we couldn't find an immediate match across our network"
