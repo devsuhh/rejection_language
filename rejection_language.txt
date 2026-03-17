@@ -16,6 +16,7 @@
 "we have decided to pursue other candidates"
 "we have decided to proceed with other applicants"
 "we have decided to proceed with other candidates"
+"we have decided to move forward with another candidate"
 "we have filled"
 "we have to inform you that we won't be able to invite you to the next round"
 "we have unfortunately decided to prioritize other candidates"
@@ -26,3 +27,4 @@
 "we've decided not to move forward"
 "we've decided not to proceed with your candidacy"
 "we've made the decision to not move forward at this time."
+
