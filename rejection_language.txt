@@ -13,6 +13,7 @@
 "we are pursuing other candidates"
 "we couldn't find an immediate match across our network"
 "we decided to move forward with other candidates"
+"we don't think that our current openings are going to best unlock your next steps"
 "we have chosen to move forward with other candidates"
 "we have chosen to pursue other candidates"
 "we have decided not to move forward"
