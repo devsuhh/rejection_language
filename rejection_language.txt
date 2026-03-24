@@ -7,6 +7,7 @@
 "move forward with other candidates"
 "not quite the right match"
 "the client has decided to move forward with another candidate"
+"the position has been filled"
 "unfortunately, your application was unsuccessful"
 "unfortunately aren't able to move forward in the process"
 "we are not in the position to move forward with your application"
