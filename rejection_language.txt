@@ -35,5 +35,6 @@
 "we've decided not to move forward"
 "we've decided not to proceed with your candidacy"
 "we've made the decision to not move forward at this time"
+"while this one wasn’t a perfect match"
 "your strength areas do not align to our core needs"
 
