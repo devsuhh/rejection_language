@@ -6,6 +6,7 @@
 "not quite the right match"
 "the client has decided to move forward with another candidate"
 "unfortunately, your application was unsuccessful"
+"unfortunately aren't able to move forward in the process"
 "we are not in the position to move forward with your application"
 "we are pursuing other candidates"
 "we couldn't find an immediate match across our network"
