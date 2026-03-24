@@ -34,5 +34,6 @@
 "we’ve decided not to move you ahead for this position"
 "we've decided not to move forward"
 "we've decided not to proceed with your candidacy"
-"we've made the decision to not move forward at this time."
+"we've made the decision to not move forward at this time"
+"your strength areas do not align to our core needs"
 
