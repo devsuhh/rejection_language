@@ -26,6 +26,7 @@
 "we have to inform you that we won't be able to invite you to the next round"
 "we have unfortunately decided to prioritize other candidates"
 "we regret"
+"we selected another candidate for the position"
 "we will not be moving forward"
 "we won't be proceeding"
 "we won't be progressing with your application"
